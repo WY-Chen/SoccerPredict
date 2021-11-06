@@ -7,6 +7,8 @@ Predict Premiere League soccer game scores using a Bayesian model
 
 ## Example
 
+November 6: Everton vs Spurs, predicted probabilities (Everton win 23.5%, draw 21.4%, Spurs win 55.1%), most likely score is 1:2, with estimated 11% probability.
+
 ```python
 > game("Everton", # home team
         "Spurs",  # away team
